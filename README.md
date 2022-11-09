@@ -28,7 +28,7 @@ compartimos mutuamente) es importante que te prepares para los procesos de
 selección en los que participarás  una vez que termine el bootcamp.
 
 Sabemos que hablar de búsqueda de empleo a estas alturas puede dar nervios,
-ansiedad, expectativas etc .. pero no te preocupes, empezamos a hablar del tema
+ansiedad, expectativas etc. pero no te preocupes, empezamos a hablar del tema
 para que te prepares y para acompañarte de la mejor forma en esta preparación.
 
 Si bien el objetivo del Bootcamp es prepararte para trabajar, dado el desfase
