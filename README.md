@@ -141,4 +141,3 @@ acompañamiento te dejamos la siguiente guía para las sesiones de mentorías.
   que prefieras. Recuerda siempre la importancia de la iteración. Siempre puedes
   volver, revisar, actualizar, mejorar, iterar, etc cada parte del proyecto.
   Pide feedback, y sé activa durante toda esta preparación.
-# DEV001-job-application
