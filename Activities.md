@@ -11,7 +11,7 @@
   </tr>
   <tr>
     <td><b>Kick off</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Jueves 17.11 </td>
     <td>
       <b>Kick off</b>
       <p>
@@ -40,7 +40,7 @@
         Preparación de herramientas y para la simulación de entrevista RH
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>Martes 22.11 y 29.11</td>
     <td>
       <b>Autoconocimiento</b>
       <p>
@@ -74,7 +74,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde el 21.11</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
@@ -125,7 +125,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde el 12.12 al 23.12</td>
     <td>
       <b>Preparación entrevista RRHH</b>
       <p>
@@ -157,7 +157,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Martes 06.12</td>
     <td>
       <b>Q&A mentorías RH con el equipo</b>
       <p>
@@ -180,7 +180,7 @@
         Sesiones de revisión de herramientas y simulación de entrevista RH
       </b>
     </td>
-    <td rowspan="2"><!-- aqui la fecha --></td>
+    <td rowspan="2">Semana del 12.12, por definir</td>
     <td rowspan="2">
       <b>Sesión de revisión y feedback de CV + LinkedIn</b>
       <p>
@@ -232,7 +232,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 19.12 al 06.01 </td>
     <td>
     <b>Sesión de seguimiento a la incorporación de feedback de CV + LinkedIn</b>
       <p>
@@ -251,7 +251,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 16.01 al 27.01</td>
     <td>
       <b>Simulación de entrevista RH</b>
       <p>
@@ -310,7 +310,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Martes 31.01</td>
     <td>
       <b>Retrospectiva grupal de mentorías RH</b>
       <p>
@@ -328,7 +328,7 @@
   </tr>
   <tr>
     <td rowspan="2"><b>Preparación tech</b></td>
-    <td><!-- aqui la fecha --></td>
+    <td>Jueves 12.01 y 26.01</td>
     <td>
       <b>
         Sesiones de preparación para la simulación de entrevista tech
@@ -348,7 +348,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Desde  el 09.01</td>
     <td>
       <b>Preparación perfil Github</b>
       <p>
@@ -381,7 +381,7 @@
         Simulación de entrevista tech y feedback de perfil de Github
       </b>
     </td>
-    <td><!-- aqui la fecha --></td>
+    <td>Semana del 23.01, por definir</td>
     <td>
       <b>Kickoff + Q&A estudiantes</b>
       <p>
@@ -405,7 +405,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Del 06.02 al 17.02</td>
     <td>
       <b>Simulación de entrevista técnica </b>
       <p>
@@ -468,7 +468,7 @@
     </td>
   </tr>
   <tr>
-    <td><!-- aqui la fecha --></td>
+    <td>Jueves 23.02</td>
     <td>
       <b>Retrospectiva grupal de mentorías Tech</b>
       <p>
@@ -510,4 +510,6 @@
     </td>
   </tr>
 </table>
+
+
 
