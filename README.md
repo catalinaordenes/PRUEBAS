@@ -43,7 +43,7 @@ Estos procesos son tan diversos como las empresas. En esta experiencia hemos
 intentado recopilar las etapas más comunes que hemos identificado de nuestra
 experiencia, y siempre intentando de que sean lo más reales posible. Será un
 acercamiento inicial, un “ensayo”, que te permita tener una idea general de lo
-qué te puedes encontrar una vez comience tu proceso de placement.
+qué te puedes encontrar una vez comience tu proceso de empleabilidad.
 
 ![Cartel que dice FOR HIRE](https://user-images.githubusercontent.com/110297/135535064-9a0c0aa1-5b25-4c83-a909-4875a86d9963.jpg)
 
@@ -88,8 +88,7 @@ En cada etapa del proyecto podrás encontrar:
   y aprendizajes a lo largo del proyecto.
 - **Ayudantías**: Office Hour con el equipo de Laboratoria para poder conversar
   tus dudas/aprendizajes/bloqueos durante el proyecto. Estos espacios podrán ser
-  con la Bootcamp Manager, Coordinadora de Desarrollo Personal o Job Placement
-  coordinator para temas vinculados a tu CV/LinkedIn/Entrevistas de RRHH y con
+  con la Bootcamp Manager, Coordinadora de Desarrollo Personal o Coordinadora de Empleabilidad para temas vinculados a tu CV/LinkedIn/Entrevistas de RRHH y con
   el equipo de coaches para temas vinculados a entrevistas tech y Github.
 - **Mentorias / Entrevistas**: Serán espacios que tendrás con personas de la
   industria para recibir asesoria y/o feedback.
