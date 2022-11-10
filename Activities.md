@@ -75,7 +75,7 @@
     <td>NA</td>
   </tr>
   <tr>
-    <td>Desde el 21.11</td>
+    <td>Desde el 21.11 1°versión entrega 07.12</td>
     <td>
       <b>Preparación de CV y LinkedIn</b>
       <p>
