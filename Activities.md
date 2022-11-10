@@ -113,7 +113,7 @@
             (PPT)
           </a>
         </li>
-        <li>OH con el equipo (son opcionales y puedes solicitarlas a tu CDP).</li>
+        <li>OH con el equipo (son opcionales y puedes solicitarlas a tu CDP o CE).</li>
       </ul>
     </td>
     <td>
