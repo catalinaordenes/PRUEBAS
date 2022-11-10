@@ -88,7 +88,7 @@ En cada etapa del proyecto podrás encontrar:
   y aprendizajes a lo largo del proyecto.
 - **Ayudantías**: Office Hour con el equipo de Laboratoria para poder conversar
   tus dudas/aprendizajes/bloqueos durante el proyecto. Estos espacios podrán ser
-  con la Bootcamp Manager, Coordinadora de Desarrollo Personal o Coordinadora de Empleabilidad para temas vinculados a tu CV/LinkedIn/Entrevistas de RRHH y con
+  con la Coordinadora de Desarrollo Personal o Coordinadora de Empleabilidad para temas vinculados a tu CV/LinkedIn/Entrevistas de RRHH y con
   el equipo de coaches para temas vinculados a entrevistas tech y Github.
 - **Mentorias / Entrevistas**: Serán espacios que tendrás con personas de la
   industria para recibir asesoria y/o feedback.
